@@ -3,6 +3,6 @@ public class PemilihanPercobaan119modifikasi {
 
         int angka = 9;
         String hasil = (angka % 2 == 0) ? "Bilangan Genap" : "Bilangan Ganjil";
-        System.out.println(angka + " adalah " + hasil);
+        System.out.println("angka " + angka + " " + hasil);
     }
 }
