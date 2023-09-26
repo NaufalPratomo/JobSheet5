@@ -9,5 +9,5 @@ public class PemilihanPercobaan119modifikasi {
         int angka = input19.nextInt();
         String hasil = (angka % 2 == 0) ? "Bilangan Genap" : "Bilangan Ganjil";
         System.out.println("angka " + angka + " " + hasil);
-    }
-}
+    } 
+} 
