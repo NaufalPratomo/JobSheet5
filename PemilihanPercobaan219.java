@@ -18,4 +18,4 @@ public class PemilihanPercobaan219 {
         String message = total < 65 ? "Remidi" : "Tidak remidi";
         System.out.println("Nilai akhir = " + total + " sehingga " + message);
     }
-}
+} 
